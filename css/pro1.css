@@ -1,0 +1,100 @@
+*
+ {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /* text-decoration: none; */
+}
+ body
+{
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar
+{
+   border: 1px solid rgb(0, 0, 0);
+}
+.container-fluid .row .p
+{
+    padding: 0%;
+    padding-top: 4px;
+}
+
+.navbar :hover
+{
+    background-color: white;
+    color: #000 !important;
+} 
+ .navbar .container-fluid .navbar-brand
+{
+    font-size: 30px;
+   font-family :"Archivo Narrow", sans-serif;
+    font-style: normal;
+    /* padding-left: 50px; */
+    color: rgb(0, 0, 0);
+}
+/* .navbar .container-fluid .navbar-nav
+{
+    padding-left: 20px;
+   
+} */
+.navbar .d-flex img
+{
+width: 20px;
+} 
+ul li a
+{
+    color: rgb(0, 0, 0) !important;
+}
+.navbar .dropdown-menu
+{
+    color: white !important;
+}
+.container .row .col
+{
+    margin-top: 100px;
+}
+.container-fluid .row .col-6
+{
+    margin-top:50px ;
+    padding: 50px;
+}
+/* .container-fluid .row a .col-6
+{
+    text-decoration: none;
+} */
+.container-fluid .row .col-6  .card-text
+{
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    
+}
+.container .row .col  a p
+{
+    color: #000;
+    font-size: 12px;
+    font-weight: bold;
+}
+.container .row .col .card
+{
+    border: none;
+}
+.container .row .col img
+{
+    /* height: 4.75in;
+    width:4.75in; */
+    /* margin: 20px; */
+}
+.container-fluid .row .col-6  .card-text del
+{
+    color:cadetblue;
+}
+.card a{
+    text-decoration: none;
+}
+.card {
+    margin: 15px;
+    padding: 5px;
+    /* height: 500px; */
+}
